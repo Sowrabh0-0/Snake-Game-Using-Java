@@ -14,7 +14,7 @@ This is a simple implementation of the classic Snake Game using Java and Swing. 
 2. Open the project in your preferred Java development environment (e.g., Eclipse, IntelliJ, etc.).
 
 ## Usage
-1. Run the `SnakeGame.java` class to start the game.
+1. Run the `GamePanel.java` class to start the game.
 2. The game window will open, and you can use the arrow keys to control the snake.
 3. Eat fruits to grow the snake and increase your score.
 4. If the snake collides with itself or the boundaries of the game board, the game will end, and you can restart by pressing the ENTER key.
